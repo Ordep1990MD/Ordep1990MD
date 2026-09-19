@@ -6,7 +6,7 @@ My focus is on making agent behavior observable and testable: what was attempted
 
 ## Building: AgentReplay
 
-[AgentReplay](https://github.com/Ordep1990MD/agentreplay) is a local laboratory for testing tool-using agents against integration failures.
+[AgentReplay](https://github.com/pedronavarro-labs/agentreplay) is a local laboratory for testing tool-using agents against integration failures.
 
 - Reproduce uncertain writes, duplicate actions and permission failures.
 - Inspect tool calls and verify the resulting state.
